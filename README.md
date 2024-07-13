@@ -18,6 +18,8 @@
 - BugFix: redirect if the user is not logged in and vice versa
 - Unsubscribe to onAuthStateChanged useEffect call
 - Add hardcoded values to constants file
+- Register TMDB API & create an app & get acces token
+- get now playing movies list
 
 # Feature
 
