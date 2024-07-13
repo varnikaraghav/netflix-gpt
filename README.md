@@ -3,8 +3,14 @@
 - Create React Appp
 - installed and configured tailwind
 - Header
+- Routing in app
 - Login Form
 - SignUp Form
+- Form Validation
+- use Ref hook
+- firebase setup
+- Deploying our app to production
+- Create Sign up user account
 
 # Feature
 
