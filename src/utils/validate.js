@@ -1,6 +1,6 @@
-export const checkValidData = (name, email, password) => {
+export const checkValidData = (name, email, password, isSignInForm) => {
   let isNameValid = true;
-  if (name) {
+  if (!isSignInForm) {
     isNameValid = /\b([A-ZÀ-ÿ][-,a-z. ']+[ ]*)+/.test(name);
   }
 
